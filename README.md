@@ -52,7 +52,9 @@ An end-to-end automated pipeline that generates horror short videos using AI, co
 - Stores output in S3
 
 #### Final Output:
-[Watch the Generated Horror Short](FinalShorts/combined_shorts.mp4)
+<video src="FinalShorts/combined_shorts.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## ⚙️ Technical Architecture
 
@@ -119,6 +121,5 @@ pip install -r requirements.txt
 > 2. Add background music to S3
 > 3. Connect to the hosted Dia 1.6B TTS model
 > 4. Configure the necessary API keys and credentials
-
 
 *This project is a demonstration of AI-powered content generation and automation. All generated content is for entertainment purposes only.* 
