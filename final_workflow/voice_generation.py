@@ -3,10 +3,13 @@ from s3_operations import upload_audio_file
 from mongo_connection import push_audio_file_names
 from io import BytesIO
 from datetime import datetime
+from dotenv import load_dotenv
+import os
+load_dotenv()
 
 today = datetime.today().date()
 BUCKET_NAME = "narratron"
-
+MODAL_ENDPOINT = os.getenv("MODAL_ENDPOINT")
 def generate_audio(scenes, voice="Alexander"):
     files_names = []
 
@@ -19,7 +22,7 @@ def generate_audio(scenes, voice="Alexander"):
             print(f"[DEBUG] Generating audio for scene {i + 1}: {scene_name}")
 
             response = requests.post(
-                "https://thejasrao262003--dia-tts-service-serve.modal.run/simple-tts",
+                MODAL_ENDPOINT,
                 json={
                     "text": scene_text,
                     "speed": 0.94,
