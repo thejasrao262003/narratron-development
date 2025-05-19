@@ -1,0 +1,37 @@
+{
+  "story_name": "The Echo of Blackwood Manor",
+  "scenes": {
+    "scene1": {
+      "scene_name": "Sunny Suburban Street with Horror Atmosphere",
+      "scene_script": "The sun beat down on Blackwood Drive, casting long, distorted shadows. A picture of suburban perfection, except for the palpable sense of dread that clung to the air. Children’s laughter sounded hollow, like echoes from a forgotten time. Every perfectly manicured lawn felt like a carefully constructed facade, hiding something unspeakable beneath. . ."
+    },
+    "scene2": {
+      "scene_name": "Old Countryside House with Eerie Shadows",
+      "scene_script": "Blackwood Manor loomed at the edge of town, a silent sentinel watching over the oblivious community. Its darkened windows stared blankly ahead like empty sockets, and the only sound was the rustling of dead leaves. Eerie shadows danced across its weathered stone walls, shifting and swirling like restless spirits caught in perpetual torment. . ."
+    },
+    "scene3": {
+      "scene_name": "Hallway with Flickering Light Horror Style",
+      "scene_script": "Inside, the hallway stretched into oppressive darkness, punctuated only by the sporadic flicker of a dying lightbulb. Each pulse of light revealed glimpses of peeling wallpaper and decaying grandeur. A cold draft snaked through the hall, carrying whispers of forgotten conversations and unspoken horrors. The very air felt heavy, saturated with despair. . ."
+    },
+    "scene4": {
+      "scene_name": "Wooden Staircase in Haunted Mansion",
+      "scene_script": "The staircase creaked and groaned under unseen weight, leading upwards into the unknown. Dust motes danced in the faint light, swirling like miniature ghosts. Each step felt like a transgression, a deeper descent into the heart of the manor's darkness. The feeling of being watched intensified, a suffocating pressure on the back of your neck. . ."
+    },
+    "scene5": {
+      "scene_name": "Attic with Cobwebs and Single Lightbulb",
+      "scene_script": "The attic was a suffocating space filled with forgotten relics and suffocating shadows. A single, bare lightbulb cast a sickly yellow glow on cobwebs thick as shrouds. Old trunks overflowed with faded photographs and forgotten memories. The air was thick with the smell of decay, a testament to the manor's long and tragic history. . ."
+    },
+    "scene6": {
+      "scene_name": "Creepy Painting with Glowing Red Eyes",
+      "scene_script": "An old portrait hung crookedly on the wall, its canvas cracked and peeling. The subject's eyes, once vibrant, now glowed with an unnatural red intensity. It felt as if they were following you around the room, piercing your soul and seeing your deepest fears. The painting seemed to pulse with a dark energy, a malevolent presence trapped within the canvas. . ."
+    },
+    "scene7": {
+      "scene_name": "Wall Mirror in Haunted Horror Room",
+      "scene_script": "A large, ornate mirror hung on the far wall, its surface clouded with age and dust. As you gaze into it, your reflection seems distorted, unfamiliar. A flicker of movement behind you catches the corner of your eye, but when you turn, there's nothing there. The mirror feels like a portal, a gateway to something sinister lurking just beyond perception. . ."
+    },
+    "scene8": {
+      "scene_name": "Bloody Writing on Mirror Horror",
+      "scene_script": "A message is scrawled across the mirror in fresh blood: \"They Know.\" A chill runs down your spine as you realize the reflection staring back isn't your own. For a split second, you see a gaunt face with eyes of pure black and notice the dark figure appear behind your reflection. Then as soon as you blink, its gone. . .Who are they and what do they know?. . ."
+    }
+  }
+}
