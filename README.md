@@ -52,7 +52,7 @@ An end-to-end automated pipeline that generates horror short videos using AI, co
 - Stores output in S3
 
 #### Final Output:
-<video src="https://github.com/thejasrao262003/narratron-development/blob/main/FinalShorts/video_output.mp4" width="50%" controls>
+<video src="https://github.com/user-attachments/assets/a0479f87-8b10-486d-a88b-db8a5f69c7b6" width="50%" controls>
   Your browser does not support the video tag.
 </video>
 
