@@ -28,9 +28,11 @@ An end-to-end automated pipeline that generates horror short videos using AI, co
 - Stores final assets in Amazon S3
 
 #### Sample Images from Collection:
-<img src="horror_images_final/image_1.jpg" width="300" height="200" alt="Horror Image 1">
-<img src="horror_images_final/image_2.jpg" width="300" height="200" alt="Horror Image 2">
-<img src="horror_images_final/image_14.jpg" width="300" height="200" alt="Horror Image 14">
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="horror_images_final/image_1.jpg" width="300" height="200" alt="Horror Image 1" style="margin: 0;">
+  <img src="horror_images_final/image_2.jpg" width="300" height="200" alt="Horror Image 2" style="margin: 0;">
+  <img src="horror_images_final/image_14.jpg" width="300" height="200" alt="Horror Image 14" style="margin: 0;">
+</div>
 
 ### 3. Script Generation
 - Powered by Gemini 2.0 Flash
